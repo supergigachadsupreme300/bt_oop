@@ -1,0 +1,11 @@
+<teachers>
+    <teacher>
+        <name>Nguyen Van A</name>
+        <groups>3</groups>
+    </teacher>
+    <teacher>
+        <name>Tran Thi B</name>
+        <groups>2</groups>
+    </teacher>
+    ...
+</teachers>
